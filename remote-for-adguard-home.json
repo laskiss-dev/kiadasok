@@ -1,14 +1,13 @@
 {
   "app": "hu.laskiss.remoteforadguardhome",
-  "version": "2.4",
-  "versionCode": 7,
+  "version": "2.4.1",
+  "versionCode": 8,
   "date": "2026. 11. 06.",
-  "apk": "https://github.com/laskiss-dev/kiadasok/releases/download/remote-for-adguard-home-v2.4/Remote-for-AdGuard-Home-2.4.apk",
-  "size": 140932,
-  "sha256": "353d4fc88e971cb023e88217fb8de909b13fa53ba80d0e44ecaab787bbfcf569",
+  "apk": "https://github.com/laskiss-dev/kiadasok/releases/download/remote-for-adguard-home-v2.4.1/Remote-for-AdGuard-Home-2.4.1.apk",
+  "size": 136496,
+  "sha256": "44ee3eed060ea88def49d82ee743e81ea964f3ad1a53dc25c9256c236ae283f2",
   "changes": [
-    "Új: frissítés az appon belül – induláskor megnézi, van-e új verzió, és ha van, megkérdezi, telepítsd-e",
-    "Telepítés előtt ellenőrzi, hogy a letöltött fájl sértetlen és ugyanazzal a kulccsal van aláírva",
-    "Alkalmazás beállítások → Frissítések: automatikus keresés ki/be, Frissítés keresése most"
+    "Frissítés: az app már nem telepít magától, így a Google Play Protect nem jelöli kártékonynak",
+    "Új verziónál a Letöltés gomb a böngészőben tölti le a fájlt; a telepítéshez koppints a letöltött fájlra"
   ]
 }
